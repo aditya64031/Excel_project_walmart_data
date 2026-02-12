@@ -12,7 +12,7 @@ Business Insight Generation
  ## Tools Used
 Microsoft Excel
 Pivot Tables
-Power Query (if used)
+Power Query 
 Charts & Dashboard
 Excel Formulas (VLOOKUP/XLOOKUP, IF, SUMIFS, COUNTIFS, etc.)
 
@@ -22,7 +22,7 @@ Removed duplicate records
 Handled missing/null values
 Standardized date formats
 Corrected inconsistent text values
-Created calculated columns (if any)
+Created calculated columns
 Verified data types
 
 ## Key Analysis Performed
@@ -34,9 +34,7 @@ Verified data types
  Sales by Region
 
  Sales by Category
-
- Monthly / Yearly Trend Analysis
-
+ 
  Top Performing Products
 
  Profit vs Sales relation
